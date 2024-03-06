@@ -1,4 +1,5 @@
 // Java Border Layout Demo using AWT
+package Practical_1;
 
 import java.awt.*;
 public class BorderLayoutDemo extends Frame {

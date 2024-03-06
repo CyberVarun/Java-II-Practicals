@@ -1,4 +1,6 @@
 // Java Grid Layout Demo using AWT
+package Practical_1;
+
 import java.awt.*;
 public class GridLayoutDemo extends Frame {
     public GridLayoutDemo(){

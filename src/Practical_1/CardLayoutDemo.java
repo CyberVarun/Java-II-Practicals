@@ -1,4 +1,6 @@
 // Java Card Layout Demo using AWT
+package Practical_1;
+
 import java.awt.*;
 public class CardLayoutDemo extends Frame {
     public CardLayoutDemo(){
